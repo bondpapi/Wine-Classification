@@ -1,4 +1,4 @@
-# Wine Quality Classification - Logistic Regression Model
+# Wine Quality Classification - Linear Regression Model
 
 ## Overview
 This project aims to classify red wine samples into **"Good"** or **"Not Good"** based on their physicochemical properties using **Logistic Regression**. The dataset is analyzed, preprocessed, and used to build a classification model that predicts wine quality effectively.
