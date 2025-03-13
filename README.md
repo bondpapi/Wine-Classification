@@ -85,6 +85,11 @@ d) **Hyperparameter tuning** for optimal regularization and feature selection.
 
 **Recommended Tools:** Python 3, Jupyter Notebook, Pandas, Scikit-Learn, Statsmodels, Seaborn, Matplotlib.
 
+- Install library package below 
+
+``` python
+pip install -r requirements.txt
+```
 ---
 
 ## Contributors
